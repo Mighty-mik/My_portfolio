@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Vesper+Libre|Yeseva+One&display=swap');
+
+
+/*header*/
+.text2{
+    
+    font-family: 'Yeseva One', cursive;
+    color: black;
+    font-size: 50px;
+}
+.text1{
+    
+    font-family: 'Yeseva One', cursive;
+    color: black;
+    font-size: 20px;
+}
+.header{
+    margin-top: 40px;
+    
+    border: solid white;
+    border-bottom-color: #8798ad;
+    border-width: 5px;
+}
+/*Fin header*/
+
+/*header2*/
+.image1{
+    margin-top: 30px;
+    width: auto;
+    background-size: cover;
+    
+    
+}
+.h2{
+    font-family: 'Vesper Libre', serif;
+    color: #484e53;
+    font-size: 30px
+}
+.btn{
+    background-color: #484e53;
+    color: white;
+}
+.card-text{
+    color: #484e53;
+}
+.card-title{
+    color: #484e53;
+}
